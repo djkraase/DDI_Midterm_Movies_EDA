@@ -38,33 +38,49 @@ Clean, reliable dataset ready for analyzing financial performance, genre impact,
 ## 📊 Key Visualizations & Insights
 
 ### 1️⃣ Movie Genres by Count Across Seasons
+- 🎭 **Comedy**: Highest ROI & most movies produced  
+- 💥 **Action / Adventure / Animation**: Top in revenue 
+- 😱 **Horror**: Moderate in both revenue & ROI  
+- 🎬 **Documentary / Drama**: High ROI but few movies produced and vice-versa
+- 📊 **Takeaway**: Genre impacts profitability and popularity differently
+
+_Which genres are most popular to produce, most profitable, and generate the highest revenue?_
+
+<img width="1176" height="784" alt="3 0 Genre Landscape_Count, Relative ROI, Revenue" src="https://github.com/user-attachments/assets/b303babc-b4b1-4e26-bdcb-b4c20f71a454" />
+
+
+### 2️⃣ Movie Genres by Count Across Seasons
 - Comedy, Action, and Drama dominate releases  
 - Fall sees more variety (Thriller, Crime ~5%)  
 - Drama peaks in fall/winter (awards season alignment)
 
-Which genres are most popular to produce, most profitable, and generate the highest revenue?
+_Which genres are released in each season, and does the genre mix vary across the year?_
 
-<img width="1176" height="784" alt="3 0 Genre Landscape_Count, Relative ROI, Revenue" src="https://github.com/user-attachments/assets/b303babc-b4b1-4e26-bdcb-b4c20f71a454" />
+<img width="1182" height="784" alt="4 7 Movie Genres Distributed by Seasons" src="https://github.com/user-attachments/assets/76c16744-cb3c-4d57-b1a5-119df1621f4a" />
 
 ---
 
-### 2️⃣ Movie Revenue Distribution by Genre and Season
+### 3️⃣ Movie Revenue Distribution by Genre and Season
 - Blockbuster genres: Action, Adventure, Animation  
 - **Summer:** Revenue peaks due to holidays (>50% summer revenue)  
 - **Winter:** Small surge with family-friendly and franchise releases  
 - **Spring & Fall:** Lower revenue, niche titles dominate
+- 
+_How do different movie genres contribute to seasonal variations in box office revenue?_
 
-![Revenue by Genre and Season](images/revenue_by_genre_season.png)
+<img width="1174" height="784" alt="4 8 Movie Revenue Distribution by Genre and Season" src="https://github.com/user-attachments/assets/a3e003b8-9b5c-4647-86cf-ceadcd8f4928" />
 
 ---
 
-### 3️⃣ Movie Profit Distribution by Genre and Season
+### 4️⃣ Movie Profit Distribution by Genre and Season
 - Big hits earn most in summer  
 - Low-budget films often deliver higher ROI relative to cost  
 - **Optimal Strategy:** Balance blockbuster hits with smaller, high-ROI movies  
 - **Spring:** Ideal for family films and high-ROI smaller releases
 
-![Profit by Genre and Season](images/profit_by_genre_season.png)
+_How does movie profitability vary by genre and season, and what strategies maximize returns?_
+
+<img width="1160" height="784" alt="4 9 Movie Profit Distribution by Genre and Season" src="https://github.com/user-attachments/assets/8668b3e7-b6a3-487e-a32a-6ad0c64fb14c" />
 
 ---
 
