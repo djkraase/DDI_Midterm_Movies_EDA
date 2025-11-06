@@ -39,7 +39,7 @@ Clean, reliable dataset ready for analyzing financial performance, genre impact,
 
 ## 📊 Key Visualizations & Insights
 
-### 1️⃣ Movie Genres by Count Across Seasons
+### 1️⃣ Genre Landscape: Popularity, Relative ROI, and Revenue
 _Which genres are most popular to produce, most profitable, and generate the highest revenue?_
 - 🎭 **Comedy**: Highest ROI & most movies produced  
 - 💥 **Action / Adventure / Animation**: Top in revenue 
