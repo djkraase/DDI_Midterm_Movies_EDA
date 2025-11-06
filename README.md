@@ -60,24 +60,23 @@ _Which genres are released in each season, and does the genre mix vary across th
 ---
 
 ### 3️⃣ Movie Revenue Distribution by Genre and Season
+  
+_How do different movie genres contribute to seasonal variations in box office revenue?_
 - Blockbuster genres: Action, Adventure, Animation  
 - **Summer:** Revenue peaks due to holidays (>50% summer revenue)  
 - **Winter:** Small surge with family-friendly and franchise releases  
 - **Spring & Fall:** Lower revenue, niche titles dominate
-  
-_How do different movie genres contribute to seasonal variations in box office revenue?_
 
 <img width="1174" height="784" alt="4 8 Movie Revenue Distribution by Genre and Season" src="https://github.com/user-attachments/assets/a3e003b8-9b5c-4647-86cf-ceadcd8f4928" />
 
 ---
 
 ### 4️⃣ Movie Profit Distribution by Genre and Season
+_How does movie profitability vary by genre and season, and what strategies maximize returns?_
 - Big hits earn most in summer  
 - Low-budget films often deliver higher ROI relative to cost  
 - **Optimal Strategy:** Balance blockbuster hits with smaller, high-ROI movies  
 - **Spring:** Ideal for family films and high-ROI smaller releases
-
-_How does movie profitability vary by genre and season, and what strategies maximize returns?_
 
 <img width="1160" height="784" alt="4 9 Movie Profit Distribution by Genre and Season" src="https://github.com/user-attachments/assets/8668b3e7-b6a3-487e-a32a-6ad0c64fb14c" />
 
