@@ -38,23 +38,22 @@ Clean, reliable dataset ready for analyzing financial performance, genre impact,
 ## 📊 Key Visualizations & Insights
 
 ### 1️⃣ Movie Genres by Count Across Seasons
+_Which genres are most popular to produce, most profitable, and generate the highest revenue?_
 - 🎭 **Comedy**: Highest ROI & most movies produced  
 - 💥 **Action / Adventure / Animation**: Top in revenue 
 - 😱 **Horror**: Moderate in both revenue & ROI  
 - 🎬 **Documentary / Drama**: High ROI but few movies produced and vice-versa
 - 📊 **Takeaway**: Genre impacts profitability and popularity differently
 
-_Which genres are most popular to produce, most profitable, and generate the highest revenue?_
-
 <img width="1176" height="784" alt="3 0 Genre Landscape_Count, Relative ROI, Revenue" src="https://github.com/user-attachments/assets/b303babc-b4b1-4e26-bdcb-b4c20f71a454" />
 
 
 ### 2️⃣ Movie Genres by Count Across Seasons
+
+_Which genres are released in each season, and does the genre mix vary across the year?_
 - Comedy, Action, and Drama dominate releases  
 - Fall sees more variety (Thriller, Crime ~5%)  
 - Drama peaks in fall/winter (awards season alignment)
-
-_Which genres are released in each season, and does the genre mix vary across the year?_
 
 <img width="1182" height="784" alt="4 7 Movie Genres Distributed by Seasons" src="https://github.com/user-attachments/assets/76c16744-cb3c-4d57-b1a5-119df1621f4a" />
 
