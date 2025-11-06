@@ -43,7 +43,6 @@ _Which genres are most popular to produce, most profitable, and generate the hig
 - 💥 **Action / Adventure / Animation**: Top in revenue 
 - 😱 **Horror**: Moderate in both revenue & ROI  
 - 🎬 **Documentary / Drama**: High ROI but few movies produced and vice-versa
-- 📊 **Takeaway**: Genre impacts profitability and popularity differently
 
 <img width="1176" height="784" alt="3 0 Genre Landscape_Count, Relative ROI, Revenue" src="https://github.com/user-attachments/assets/b303babc-b4b1-4e26-bdcb-b4c20f71a454" />
 
