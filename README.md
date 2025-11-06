@@ -65,7 +65,7 @@ _Which genres are released in each season, and does the genre mix vary across th
 - **Summer:** Revenue peaks due to holidays (>50% summer revenue)  
 - **Winter:** Small surge with family-friendly and franchise releases  
 - **Spring & Fall:** Lower revenue, niche titles dominate
-- 
+  
 _How do different movie genres contribute to seasonal variations in box office revenue?_
 
 <img width="1174" height="784" alt="4 8 Movie Revenue Distribution by Genre and Season" src="https://github.com/user-attachments/assets/a3e003b8-9b5c-4647-86cf-ceadcd8f4928" />
