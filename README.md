@@ -7,7 +7,7 @@ Explore the factors that drive movie success and ROI, focusing on **financial pe
 ## 📌 Research Question / Objective
 
 **Primary Question:**  
-_"Which movie genres make the most money, when, and why?" _
+_Which movie genres make the most money, when, and why?_
 
 
 **Objective:**  
