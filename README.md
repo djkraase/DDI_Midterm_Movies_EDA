@@ -42,7 +42,9 @@ Clean, reliable dataset ready for analyzing financial performance, genre impact,
 - Fall sees more variety (Thriller, Crime ~5%)  
 - Drama peaks in fall/winter (awards season alignment)
 
-![Genres by Season](images/genres_by_season.png)
+Which genres are most popular to produce, most profitable, and generate the highest revenue?
+
+<img width="1176" height="784" alt="3 0 Genre Landscape_Count, Relative ROI, Revenue" src="https://github.com/user-attachments/assets/b303babc-b4b1-4e26-bdcb-b4c20f71a454" />
 
 ---
 
