@@ -7,7 +7,7 @@ Explore the factors that drive movie success and ROI, focusing on **financial pe
 ## 📌 Research Question / Objective
 
 **Primary Question:**  
-> What factors drive movie success and return on investment (ROI), considering financial performance, genre, and seasonal trends?
+> _What factors drive movie success and return on investment (ROI), considering financial performance, genre, and seasonal trends?_
 
 **Objective:**  
 - Identify which genres perform best in specific seasons.  
